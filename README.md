@@ -42,7 +42,7 @@ Before using the workflow, ensure you have the following:
 
 ## **Notes**  
 - **Do not navigate away** from the page while the workflow is running, as this may interrupt the automation process.  
-- A **complete source list** for the LexisNexis database is available in the repository as a CSV file: **`Lexis_media_list.csv`**. You can refer to this file for a comprehensive list of sources included in the search.
+- A **complete source list** for the LexisNexis database is available in the repository as a CSV file: **`Lexis_media_list.csv`**. You can refer to this file for a comprehensive list of sources included in the search. If there is ** on the source, we are restricted to download content from it.
 
 ## **Helpful Links**  
 - [How to construct a LexisNexis query for news](https://supportcenter.lexisnexis.com/app/answers/answer_view/a_id/1091245/loc/en_US/s/16777216_109661897bcd67-598b-42b6-a4c7-977f10451e3c/prTxnId/602845503/txnId/602845503/%2Fapp%2Fanswers%2Fanswer_view%2Fa_id%2F1091245%2Floc%2Fen_US#__highlight)
