@@ -32,6 +32,7 @@ Before using the workflow, ensure you have the following:
    - Your starting page should look like this:  
 ![LexisNexis Start Page](images/lexisnexis_start_page.png)
 ![LexisNexis Start Page_2](images/lexisnexis_start_page_2.png)
+*(It is suggested that sort the search result by Title)*
 
 
 ### 5. **Run the Workflow**  
