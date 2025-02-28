@@ -31,6 +31,8 @@ Before using the workflow, ensure you have the following:
    - Wait until the page is **fully loaded** before running the workflow.  
    - Your starting page should look like this:  
 ![LexisNexis Start Page](images/lexisnexis_start_page.png)
+![LexisNexis Start Page_2](images/lexisnexis_start_page_2.png)
+
 
 ### 5. **Run the Workflow**  
    - Open the **Automa extension** and locate the imported workflow.  
