@@ -46,4 +46,19 @@ Before using the workflow, ensure you have the following:
 
 ## **Helpful Links**  
 - [How to construct a LexisNexis query for news](https://supportcenter.lexisnexis.com/app/answers/answer_view/a_id/1091245/loc/en_US/s/16777216_109661897bcd67-598b-42b6-a4c7-977f10451e3c/prTxnId/602845503/txnId/602845503/%2Fapp%2Fanswers%2Fanswer_view%2Fa_id%2F1091245%2Floc%2Fen_US#__highlight)
-- [Automa Documentation](https://docs.automa.site/)  
+- [Automa Documentation](https://docs.automa.site/)
+
+-----
+
+# **Download All Files in Gmail**  
+
+### 1. **Select all emails received from LexisNexis**
+   - ![email_1](images/email_1.png)
+
+### 2. **Select **"Forward as attachment"** and forward them to your email**
+   - ![email_2](images/email_2.png)  
+   - ![email_3](images/email_3.png)  
+
+### 3. **Download all attachments with a single click**  
+   - ![email_4](images/email_4.png)  
+
